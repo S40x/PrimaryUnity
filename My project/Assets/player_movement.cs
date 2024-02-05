@@ -8,7 +8,7 @@ public class player_movement : MonoBehaviour
     public CharacterController2D controller;
 
     public float runSpeed = 40f;
-    float horizantalMove = 0f;
+    float horizantalMove = 1f;
     
     void Update()
     {
